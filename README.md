@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PinkyChaudhary00
+- 👋 Hi, I’m Pinky Chaudhary
 - 👀 I’m interested in Real Life Application of Machine Learning
 - 🌱 I’m currently learning Machine Learning, Deep Learning
 - 💞️ I’m looking to collaborate on Open Source Projects
